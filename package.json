@@ -1,5 +1,5 @@
 {
-  "name": "gulp-cdn-inject",
+  "name": "gulp-inject-cdn",
   "version": "0.0.1",
   "description": "Inject file references to CDN hosted JavaScript files into HTML source files.",
   "main": "index.js",
