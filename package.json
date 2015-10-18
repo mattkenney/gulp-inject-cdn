@@ -1,0 +1,28 @@
+{
+  "name": "gulp-cdn-inject",
+  "version": "0.0.0",
+  "description": "Inject file references to CDN hosted JavaScript files into HTML source files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/mattkenney/gulp-cdn-inject"
+  },
+  "keywords": [
+    "cdn",
+    "google",
+    "cdnjs"
+  ],
+  "author": "matt@hipposcript.org",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "cdnjs-cdn-data": "^0.1.2",
+    "google-cdn-data": "^0.1.22",
+    "gulp-replace": "^0.5.4",
+    "jsdelivr-cdn-data": "^0.1.1",
+    "semver": "^5.0.3",
+    "gulp-util": "~3.0.6"
+  }
+}
